@@ -1,1 +1,25 @@
+:root
+{
+  background-color: rgb(255,255,255);
+  color: white;
+}
+img
+{
+  display: block;
+  margin: auto;
+}
+h1
+{
+  font-size: 45px;
+  color: White;
+  text-align: center;
+}
+h2, h3, h4, h5, h6
+{
+  color: orange;
+}
+a
+{
+  color: white;
+}
 
