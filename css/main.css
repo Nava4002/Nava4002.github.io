@@ -1,7 +1,7 @@
 :root
 {
   background-color: rgb(50,50,50);
-  color: blue;
+  color: white;
 }
 img
 {
@@ -20,6 +20,6 @@ h2, h3, h4, h5, h6
 }
 a
 {
-  color: white;
+  color: blue;
 }
 
