@@ -2,6 +2,7 @@
 {
   background-color: rgb(50,50,50);
   color: white;
+  text-align: center;
 }
 img
 {
@@ -20,6 +21,9 @@ h2, h3, h4, h5, h6
 }
 a
 {
-  color: blue;
+  color: light blue;
 }
-
+table
+{
+  margin: auto;
+}
