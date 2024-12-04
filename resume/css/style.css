@@ -18,14 +18,14 @@ body
 
 h1
 {
-    font-size: calc(16pt + 4vw);
+    font-size: calc(15pt + 4vw);
 }
 
 nav
 {
     border: 7px var(--Light-Blue) solid;
     margin: 8vw;
-    margin-top: 5px;
+    margin-top: 7px;
   font-size:(12pt+2vw)
 }
 
@@ -33,7 +33,7 @@ section
 {
     border: 5px var(--Light-Blue) solid;
     margin: 18vw;
-    margin-top: 30px;
+    margin-top: 28px;
 }
 
 .date
@@ -55,7 +55,7 @@ ul
 }
 
 {
-    color: var(--UNC-Gold);
+    color: var(--White);
     white-space: nowrap;
 }
 ul
