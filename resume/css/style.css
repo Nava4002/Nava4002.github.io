@@ -1,41 +1,58 @@
 :root
 {
-  --UNC-Blue: #013c65;
-  --UNC-Gold: #f6b000;
-  --UNC-Gray: #8a8a8d;
+  --Tan: #d2b48c;
+  --White: #ffffff;
+  --Light-Blue: #add8e6;
 }
+
 body
 {
-    background-color: var(--UNC-Gray);
+    background-color: var(--Tan);
 }
+
 *
 {
-    color: var(--UNC-Blue);
+    color: var(--Light-Blue);
     text-align: center;
 }
+
 h1
 {
     font-size: calc(16pt + 4vw);
 }
+
 nav
 {
-    border: 7px var(--UNC-Gold) solid;
+    border: 7px var(--Light-Blue) solid;
     margin: 8vw;
     margin-top: 5px;
 }
+
 section
 {
-    border: 5px var(--UNC-Blue) solid;
+    border: 5px var(--Light-Blue) solid;
     margin: 18vw;
     margin-top: 30px;
 }
+
 .date
 {
-    color: var(--UNC-Gold);
+    color: var(--White);
     white-space: nowrap;
 }
 
 .date strong
+{
+    color: var(--White);
+    white-space: nowrap;
+}
+
+ul
+{
+    list-style: none;
+    padding-left: 0px;
+}
+
 {
     color: var(--UNC-Gold);
     white-space: nowrap;
