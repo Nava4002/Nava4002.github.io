@@ -26,6 +26,7 @@ nav
     border: 7px var(--Light-Blue) solid;
     margin: 8vw;
     margin-top: 5px;
+  font-size:(12pt+2vw)
 }
 
 section
